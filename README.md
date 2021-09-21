@@ -14,7 +14,7 @@ When doing exploratory data analysis, we found that:
 - There is a general trend that the chances of defaulting increases as age increase.
 - Although most credit cards holder are single, the highest percentage of defaults came from others, followed by married and single.
 - Although most credit card holders have university and graduate school degree, the highest percentage of defaults came from clients with high school degree.
-- As the credit limit increase, the percentage of clients defaulting decrease.
+- As the credit limit increases, the percentage of clients defaulting decreases.
 - Defaults seem to occur mostly when clients had a payment delay for more than 2 months.
 
 For modeling:
