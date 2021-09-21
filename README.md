@@ -10,12 +10,12 @@ Using [Default of Credit Card Clients Dataset](https://www.kaggle.com/uciml/defa
 ## Executive Summary
 When doing exploratory data analysis, we found that:
 
-Although there are more females than males with credit cards, there is higher chance of defaulting if a client is a male.
-There is a general trend that the chances of defaulting increases as age increase.
-Although most credit cards holder are single, the highest percentage of defaults came from others, followed by married and single.
-Although most credit card holders have university and graduate school degree, the highest percentage of defaults came from clients with high school degree.
-As the credit limit increase, the percentage of clients defaulting decrease.
-Defaults seem to occur mostly when clients had a payment delay for more than 2 months.
+- Although there are more females than males with credit cards, there is higher chance of defaulting if a client is a male.
+- There is a general trend that the chances of defaulting increases as age increase.
+- Although most credit cards holder are single, the highest percentage of defaults came from others, followed by married and single.
+- Although most credit card holders have university and graduate school degree, the highest percentage of defaults came from clients with high school degree.
+- As the credit limit increase, the percentage of clients defaulting decrease.
+- Defaults seem to occur mostly when clients had a payment delay for more than 2 months.
 
 For modeling:
 We will use classifiers (Logistic Regression, Random Forest, XGBoost) to predict if a client is able to pay the installment in any given month and the risk of a client defaulting. We will then use regression (Linear Regression, Random Forest Regressor) to predict how much a client may be able to pay in any given period.
