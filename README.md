@@ -1,4 +1,7 @@
 # Credit-Card-Monthly-Default
+Please click this link to view all the plots (as github performs a static render of the notebooks only): 
+https://nbviewer.jupyter.org/github/fellycia/Credit-Card-Monthly-Default/blob/main/Monthly%20Credit%20Card%20Default.ipynb
+
 ## Background
 A well-established bank in Asia Pacific is looking to use data to better their nonperforming loan ratio.
 Nonperforming loan ratio is the amount of nonperforming loans to the total amount of outstanding loans the bank holds.
