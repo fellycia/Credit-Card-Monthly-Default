@@ -1,5 +1,5 @@
 # Credit-Card-Monthly-Default
-Please click this link to view all the plots (as github performs a static render of the notebooks only): 
+To view all the plots, click here (as github performs a static render of the notebooks only): 
 https://nbviewer.jupyter.org/github/fellycia/Credit-Card-Monthly-Default/blob/main/Monthly%20Credit%20Card%20Default.ipynb
 
 ## Background
